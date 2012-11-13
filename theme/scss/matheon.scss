@@ -1,9 +1,6 @@
 @import "compass/css3/background-size";
 @import "compass/css3/images"; // for 'background'
 
-
-// TODO use font Univers
-
 $social-tags: 'Title of your talk';
 $brand-small-icon-size: 30px;
 
@@ -12,6 +9,9 @@ $matheon-blue: rgb(38,89,166);
 $matheon-blue-secondary2: #015cc8;
 
 slides > slide {
+
+  font-family: 'UniversLTStd', 'Open Sans', Arial, sans-serif;
+
   &:not(.nobackground) {
     &:before {
       content: $social-tags;
