@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="1800px"
+   height="498px"
+   viewBox="0 0 1800 498"
+   enable-background="new 0 0 1800 498"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Matheon_Logo.svg"><metadata
+   id="metadata73"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs71" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="745"
+   id="namedview69"
+   showgrid="false"
+   inkscape:zoom="0.72"
+   inkscape:cx="849.89386"
+   inkscape:cy="334.64944"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="DFG_engl_blau" />
+<g
+   id="hintergrund_blau"
+   display="none">
+	<rect
+   x="-34.64"
+   y="-42.667"
+   display="inline"
+   fill="#114679"
+   width="1874"
+   height="596"
+   id="rect5" />
+</g>
+<g
+   id="stern_weiss"
+   display="none">
+	<polygon
+   display="inline"
+   fill="none"
+   stroke="#FFFFFF"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   points="103.693,69    191.027,118.333 327.026,40.001 326.943,140.084 326.86,198.167 326.943,140.334 461.777,218.417 376.277,270.583 376.36,226.333    240.026,147.834 240.026,248.584 240.026,147.834 376.36,226.333 376.36,268.333 376.36,426.333 294.86,379.627 240.693,347.667    290.693,377.083 153.36,456.333 153.36,355.667 190.693,377 326.693,297.333 240.026,248.584 153.193,298.084 153.276,198.751    153.36,140.334 191.027,118.333 153.36,140.334 153.276,198.751 103.61,226.917 153.276,198.751 153.193,298.084 240.026,248.584    326.693,297.333 190.693,377 17.027,276.667 104.027,226.667  "
+   id="polygon8" />
+</g>
+<g
+   id="stern_blau">
+	<polygon
+   fill="none"
+   stroke="#114679"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   points="103.693,69 191.027,118.333    327.026,40.001 326.943,140.084 326.86,198.167 326.943,140.334 461.777,218.417 376.277,270.583 376.36,226.333 240.026,147.834    240.026,248.584 240.026,147.834 376.36,226.333 376.36,268.333 376.36,426.333 294.86,379.627 240.693,347.667 290.693,377.083    153.36,456.333 153.36,355.667 190.693,377 326.693,297.333 240.026,248.584 153.193,298.084 153.276,198.751 153.36,140.334    191.027,118.333 153.36,140.334 153.276,198.751 103.61,226.917 153.276,198.751 153.193,298.084 240.026,248.584 326.693,297.333    190.693,377 17.027,276.667 104.027,226.667  "
+   id="polygon11" />
+</g>
+<g
+   id="stern_schwarz"
+   display="none">
+	<polygon
+   display="inline"
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   points="103.693,69    191.027,118.333 327.026,40.001 326.943,140.084 326.86,198.167 326.943,140.334 461.777,218.417 376.277,270.583 376.36,226.333    240.026,147.834 240.026,248.584 240.026,147.834 376.36,226.333 376.36,268.333 376.36,426.333 294.86,379.627 240.693,347.667    290.693,377.083 153.36,456.333 153.36,355.667 190.693,377 326.693,297.333 240.026,248.584 153.193,298.084 153.276,198.751    153.36,140.334 191.027,118.333 153.36,140.334 153.276,198.751 103.61,226.917 153.276,198.751 153.193,298.084 240.026,248.584    326.693,297.333 190.693,377 17.027,276.667 104.027,226.667  "
+   id="polygon14" />
+</g>
+<g
+   id="stern_gefüllt_blau"
+   display="none">
+	<g
+   display="inline"
+   id="g17">
+		<polygon
+   fill="#005CC9"
+   stroke="#114679"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   points="327.36,355 153.36,456.333     153.693,139 327.026,40.001   "
+   id="polygon19" />
+		<polygon
+   fill="#87BFF0"
+   stroke="#114679"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   points="327.86,199.833 327.04,140.874     463.138,218.769 188.153,377.147 15.75,276.536 152.64,197.309 153.193,297.084   "
+   id="polygon21" />
+		<polygon
+   fill="#EDF7FF"
+   stroke="#114679"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   points="103.86,224.333 153.276,199.751     153.36,139.833 185.86,120.833 104.181,73.506   "
+   id="polygon23" />
+		<polygon
+   fill="#EDF7FF"
+   stroke="#114679"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   points="240.026,148.834 376.36,227.333     376.36,427.333 240.693,348.667 326.693,298.333 240.026,249.583   "
+   id="polygon25" />
+	</g>
+</g>
+<g
+   id="DFG_engl_weiss"
+   display="none">
+	
+		<text
+   transform="matrix(1.04 0 0 1 411.3599 338.3335)"
+   display="inline"
+   fill="#FDFDFD"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text28">DFG-Research Center M</text>
+
+	
+		<text
+   transform="matrix(0.728 0 0 0.7 1272.6987 338.3335)"
+   display="inline"
+   fill="#FDFDFD"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text30">atheon</text>
+
+	<text
+   transform="matrix(1 0 0 1 411.3599 424.7339)"
+   display="inline"
+   fill="#FDFDFD"
+   font-family="'ArialMT'"
+   font-size="72"
+   id="text32">Mathematics for Key Technologies</text>
+
+</g>
+<g
+   id="DFG_deutsch_weiss"
+   display="none">
+	
+		<text
+   transform="matrix(1.04 0 0 1 411.8398 338.5073)"
+   display="inline"
+   fill="#FFFFFF"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text35">DFG-Forschungszentrum M</text>
+
+	
+		<text
+   transform="matrix(0.728 0 0 0.7 1397.7476 338.5073)"
+   display="inline"
+   fill="#FFFFFF"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text37">atheon</text>
+
+	<text
+   transform="matrix(1 0 0 1 411.8398 424.9077)"
+   display="inline"
+   fill="#FFFFFF"
+   font-family="'ArialMT'"
+   font-size="72"
+   id="text39">Mathematik für Schlüsseltechnologien</text>
+
+</g>
+<g
+   id="DFG_engl_blau">
+	<text
+   transform="matrix(1.04 0 0 1 411.3599 338.3335)"
+   font-size="72"
+   id="text42"
+   font-family="'Arial-BoldMT'"
+   fill="#114679"
+   style="-inkscape-font-specification:Univers LT Std Bold;font-family:Univers LT Std;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:70.60180865px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan3052">DFG-Research Center M</tspan></text>
+
+	<text
+   transform="scale(1.0198039,0.98058068)"
+   font-size="72"
+   id="text44"
+   style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#114679;font-family:Univers LT Std;-inkscape-font-specification:Univers LT Std Bold"
+   sodipodi:linespacing="125%"
+   x="1219.1516"
+   y="345.03381"><tspan
+     sodipodi:role="line"
+     id="tspan3054"
+     x="1219.1516"
+     y="345.03381">ATHEON</tspan></text>
+
+	<text
+   transform="matrix(1 0 0 1 411.3599 424.7339)"
+   font-size="72"
+   id="text46"
+   font-family="'ArialMT'"
+   fill="#114679"
+   style="-inkscape-font-specification:Univers LT Std;font-family:Univers LT Std;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   sodipodi:linespacing="125%">Mathematics for Key Technologies</text>
+
+</g>
+<g
+   id="DFG_engl_schwarz"
+   display="none">
+	<text
+   transform="matrix(1.04 0 0 1 411.3599 338.3335)"
+   display="inline"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text49">DFG-Research Center M</text>
+
+	<text
+   transform="matrix(0.728 0 0 0.7 1272.6987 338.3335)"
+   display="inline"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text51">atheon</text>
+
+	<text
+   transform="matrix(1 0 0 1 411.3599 424.7339)"
+   display="inline"
+   font-family="'ArialMT'"
+   font-size="72"
+   id="text53">Mathematics for Key Technologies</text>
+
+</g>
+<g
+   id="DFG_deutsch_blau_1_"
+   display="none">
+	
+		<text
+   transform="matrix(1.04 0 0 1 411.8398 338.5073)"
+   display="inline"
+   fill="#114679"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text56">DFG-Forschungszentrum M</text>
+
+	
+		<text
+   transform="matrix(0.728 0 0 0.7 1397.7476 338.5073)"
+   display="inline"
+   fill="#114679"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text58">atheon</text>
+
+	<text
+   transform="matrix(1 0 0 1 411.8398 424.9077)"
+   display="inline"
+   fill="#114679"
+   font-family="'ArialMT'"
+   font-size="72"
+   id="text60">Mathematik für Schlüsseltechnologien</text>
+
+</g>
+<g
+   id="DFG_deutsch_schwarz"
+   display="none">
+	<text
+   transform="matrix(1.04 0 0 1 411.8398 338.5073)"
+   display="inline"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text63">DFG-Forschungszentrum M</text>
+
+	<text
+   transform="matrix(0.728 0 0 0.7 1397.7476 338.5073)"
+   display="inline"
+   font-family="'Arial-BoldMT'"
+   font-size="72"
+   id="text65">atheon</text>
+
+	<text
+   transform="matrix(1 0 0 1 411.8398 424.9077)"
+   display="inline"
+   font-family="'ArialMT'"
+   font-size="72"
+   id="text67">Mathematik für Schlüsseltechnologien</text>
+
+</g>
+</svg>
