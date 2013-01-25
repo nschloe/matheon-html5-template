@@ -5,7 +5,7 @@ slides > slide {
 /* line 16, ../scss/matheon.scss */
 slides > slide:not(.nobackground):before {
   content: "Title of your talk";
-  background: url(../../images/matheon-logo-color-30x30.png) no-repeat 0 50%;
+  background: url(../../images/matheon-logo-color.svg) no-repeat 0 50%;
   -webkit-background-size: 30px 30px;
   -moz-background-size: 30px 30px;
   -o-background-size: 30px 30px;
