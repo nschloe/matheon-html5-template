@@ -44,6 +44,10 @@ URL: https://code.google.com/p/io-2012-slides
             if (next) {
                 MathJax.Hub.Queue(["Typeset", MathJax.Hub, next]);
             }
+            var past = document.getElementsByClassName('past')[0];
+            if (past) {
+                MathJax.Hub.Queue(["Typeset", MathJax.Hub, past]);
+            }
         });
     </script>
   <!--MathJax end-->
