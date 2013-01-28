@@ -32,10 +32,20 @@ URL: https://code.google.com/p/io-2012-slides
           n: '\\mathbf{n}',
           i: '\\text{i}'
         }
-      }
+      },
+      skipStartupTypeset: true
     });
     </script>
     <script type="text/javascript" src="https://d3eoax9i5htok0.cloudfront.net/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript">
+        document.addEventListener('slideenter', function(e) {
+            MathJax.Hub.Queue(["Typeset", MathJax.Hub, e.target]);
+            var next = document.getElementsByClassName('next')[0];
+            if (next) {
+                MathJax.Hub.Queue(["Typeset", MathJax.Hub, next]);
+            }
+        });
+    </script>
   <!--MathJax end-->
 </head>
 <body style="opacity: 0">
